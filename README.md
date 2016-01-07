@@ -1,0 +1,1 @@
+# slydepay-android-sdk
